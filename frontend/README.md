@@ -47,7 +47,7 @@ npm run dev
 ## API Integration
 The frontend communicates with the backend via REST API.
 Example API call:
-```javascript
+```js
 import axios from 'axios';
 
 const fetchTasks = async () => {
